@@ -1,2 +1,2 @@
 # Dart-plp
-This is just practice and playing around with data types to get grisp 
+This is just practice and playing around with data types to get grisp of the code.
